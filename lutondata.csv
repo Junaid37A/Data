@@ -1,0 +1,31 @@
+Lower tier local authorities Code,Lower tier local authorities,Type of central heating in household (5 categories) Code,Type of central heating in household (5 categories),Household deprivation (6 categories) Code,Household deprivation (6 categories),Observation
+E06000032,Luton,-9,Does not apply,-8,Does not apply,0
+E06000032,Luton,-9,Does not apply,1,Household is not deprived in any dimension,0
+E06000032,Luton,-9,Does not apply,2,Household is deprived in one dimension,0
+E06000032,Luton,-9,Does not apply,3,Household is deprived in two dimensions,0
+E06000032,Luton,-9,Does not apply,4,Household is deprived in three dimensions,0
+E06000032,Luton,-9,Does not apply,5,Household is deprived in four dimensions,0
+E06000032,Luton,1,Does not have central heating,-8,Does not apply,0
+E06000032,Luton,1,Does not have central heating,1,Household is not deprived in any dimension,0
+E06000032,Luton,1,Does not have central heating,2,Household is deprived in one dimension,643
+E06000032,Luton,1,Does not have central heating,3,Household is deprived in two dimensions,548
+E06000032,Luton,1,Does not have central heating,4,Household is deprived in three dimensions,204
+E06000032,Luton,1,Does not have central heating,5,Household is deprived in four dimensions,58
+E06000032,Luton,2,Has one type of central heating,-8,Does not apply,0
+E06000032,Luton,2,Has one type of central heating,1,Household is not deprived in any dimension,29885
+E06000032,Luton,2,Has one type of central heating,2,Household is deprived in one dimension,25749
+E06000032,Luton,2,Has one type of central heating,3,Household is deprived in two dimensions,11835
+E06000032,Luton,2,Has one type of central heating,4,Household is deprived in three dimensions,3195
+E06000032,Luton,2,Has one type of central heating,5,Household is deprived in four dimensions,237
+E06000032,Luton,3,Two or more types of central heating (not including renewable energy),-8,Does not apply,0
+E06000032,Luton,3,Two or more types of central heating (not including renewable energy),1,Household is not deprived in any dimension,2628
+E06000032,Luton,3,Two or more types of central heating (not including renewable energy),2,Household is deprived in one dimension,2308
+E06000032,Luton,3,Two or more types of central heating (not including renewable energy),3,Household is deprived in two dimensions,1103
+E06000032,Luton,3,Two or more types of central heating (not including renewable energy),4,Household is deprived in three dimensions,330
+E06000032,Luton,3,Two or more types of central heating (not including renewable energy),5,Household is deprived in four dimensions,20
+E06000032,Luton,4,Two or more types of central heating (including renewable energy),-8,Does not apply,0
+E06000032,Luton,4,Two or more types of central heating (including renewable energy),1,Household is not deprived in any dimension,97
+E06000032,Luton,4,Two or more types of central heating (including renewable energy),2,Household is deprived in one dimension,66
+E06000032,Luton,4,Two or more types of central heating (including renewable energy),3,Household is deprived in two dimensions,34
+E06000032,Luton,4,Two or more types of central heating (including renewable energy),4,Household is deprived in three dimensions,5
+E06000032,Luton,4,Two or more types of central heating (including renewable energy),5,Household is deprived in four dimensions,0
